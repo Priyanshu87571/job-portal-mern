@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+job-portal-client/node_modules/
+job-portal-server/node_modules/
+
+# Environment variables
+.env
+job-portal-client/.env
+job-portal-server/.env
+*.env
+
+# Build files
+job-portal-client/build/
+job-portal-client/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
