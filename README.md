@@ -6,7 +6,7 @@
 
 This full-stack web application is designed to bridge the gap between job seekers and employers with a comprehensive set of features that support both job applicants and administrators.
 
-## 🚀 **Features**
+## **Features**
 
 ### 👤 **User Features**
 * **🔑 Login:** Allows registered users to securely access their accounts using email and password.
