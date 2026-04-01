@@ -1,6 +1,6 @@
 # **Job_Junction – Full Stack Job Portal Website** 
 
-## 💡 **Description**
+## **Description**
 
 **JobJunction** is a robust **MERN Stack** job portal website that allows users to seamlessly browse job listings, post their own job opportunities, and apply for jobs. The platform offers secure user authentication, either through email, password, or Google login using Firebase Authentication. Users can filter job listings by title, location, and posting time, ensuring efficient job discovery. With features like job posting management, pagination, and a sleek UI, **JobJunction** guarantees an exceptional user experience, making job searching and management easier and more accessible.
 
