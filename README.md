@@ -1,4 +1,4 @@
-# 💼 **Job_Junction – Full Stack Job Portal Website** 
+# **Job_Junction – Full Stack Job Portal Website** 
 
 ## 💡 **Description**
 
