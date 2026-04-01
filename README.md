@@ -90,7 +90,7 @@ This full-stack web application is designed to bridge the gap between job seeker
 
 ---
 
-**JobJunction** is a powerful job portal platform that empowers both job seekers and employers to connect seamlessly, offering a modern approach to job searching and management. It's a comprehensive, secure, and easy-to-use solution for the job market today! 💼🚀
+**JobJunction** is a powerful job portal platform that empowers both job seekers and employers to connect seamlessly, offering a modern approach to job searching and management. It's a comprehensive, secure, and easy-to-use solution for the job market today! 
 
 ![Website Look](https://github.com/LakshayD02/MERN_Job_Portal_Website/blob/main/Output-1.png)
 ![Website Look](https://github.com/LakshayD02/MERN_Job_Portal_Website/blob/main/Output-5.png)
