@@ -24,12 +24,12 @@ This full-stack web application is designed to bridge the gap between job seeker
 * ** Content Moderation:** Admins have the ability to moderate user-submitted content and ensure it adheres to platform guidelines.
 * ** Analytics & Reporting:** Admins can view and generate reports on platform usage, job applications, and other key metrics.
 
-### 💡 **Key Features**
-* **🔒 Secure Authentication:** Users can log in with email/password or Google authentication, ensuring secure data access.
-* **📑 Detailed Job Information:** Job listings come with detailed descriptions, requirements, and other essential job-related information.
-* **🎯 Job Search Filters:** Quickly filter job listings based on specific criteria such as location, title, and posting time.
-* **🧭 Easy Navigation:** Pagination for job listings ensures the user can explore a large number of opportunities without overwhelming the interface.
-* **📱 Mobile-Friendly UI:** Responsive design to ensure the website is easy to use across all devices, whether on desktop or mobile.
+### **Key Features**
+* ** Secure Authentication:** Users can log in with email/password or Google authentication, ensuring secure data access.
+* ** Detailed Job Information:** Job listings come with detailed descriptions, requirements, and other essential job-related information.
+* ** Job Search Filters:** Quickly filter job listings based on specific criteria such as location, title, and posting time.
+* ** Easy Navigation:** Pagination for job listings ensures the user can explore a large number of opportunities without overwhelming the interface.
+* ** Mobile-Friendly UI:** Responsive design to ensure the website is easy to use across all devices, whether on desktop or mobile.
 
 ## 🎯 **Ideal For**
 
