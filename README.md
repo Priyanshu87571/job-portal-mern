@@ -18,11 +18,11 @@ This full-stack web application is designed to bridge the gap between job seeker
 * ** Pagination:** Job listings are organized with pagination to manage search results and enhance user navigation experience.
 
 ### 🧑‍💼 **Admin Features**
-* **🔑 Admin Login:** Grants access to the admin panel, where administrators can manage the platform.
-* **📝 Job Management:** Admins can update, delete, and manage job listings on the portal.
-* **👥 User Management:** Admins can monitor registered users, handle queries, and ensure smooth user operations.
-* **🛠️ Content Moderation:** Admins have the ability to moderate user-submitted content and ensure it adheres to platform guidelines.
-* **📊 Analytics & Reporting:** Admins can view and generate reports on platform usage, job applications, and other key metrics.
+* ** Admin Login:** Grants access to the admin panel, where administrators can manage the platform.
+* ** Job Management:** Admins can update, delete, and manage job listings on the portal.
+* ** User Management:** Admins can monitor registered users, handle queries, and ensure smooth user operations.
+* ** Content Moderation:** Admins have the ability to moderate user-submitted content and ensure it adheres to platform guidelines.
+* ** Analytics & Reporting:** Admins can view and generate reports on platform usage, job applications, and other key metrics.
 
 ### 💡 **Key Features**
 * **🔒 Secure Authentication:** Users can log in with email/password or Google authentication, ensuring secure data access.
