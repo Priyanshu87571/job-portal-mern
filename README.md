@@ -73,10 +73,10 @@ This full-stack web application is designed to bridge the gap between job seeker
    Navigate to the frontend directory and install dependencies:
    `cd frontend && npm install`
 
-5. **⚙️ Set up environment variables:**  
+5. ** Set up environment variables:**  
    Add your environment variables for Firebase and MongoDB in `.env` files for both the frontend and backend.
 
-6. **🚀 Run the application:**  
+6. ** Run the application:**  
    Run the backend and frontend servers:
 
    - **Backend:**  
@@ -85,7 +85,7 @@ This full-stack web application is designed to bridge the gap between job seeker
    - **Frontend:**  
      `npm start` (from the `frontend` directory)
 
-7. **🌐 Open the application:**  
+7. ** Open the application:**  
    Open the app in your browser at `http://localhost:3000`.
 
 ---
