@@ -31,12 +31,12 @@ This full-stack web application is designed to bridge the gap between job seeker
 * ** Easy Navigation:** Pagination for job listings ensures the user can explore a large number of opportunities without overwhelming the interface.
 * ** Mobile-Friendly UI:** Responsive design to ensure the website is easy to use across all devices, whether on desktop or mobile.
 
-## 🎯 **Ideal For**
+##  **Ideal For**
 
-* **👨‍💼 Job Seekers:** Individuals looking to find job opportunities with ease and manage their job applications.
-* **🏢 Employers & Recruiters:** Companies or recruiters seeking an efficient platform to post job listings and manage applicants.
-* **🧑‍💼 Admins:** Admins looking to manage job listings, users, and queries to ensure a smooth-running platform.
-* **🌍 Anyone:** Looking to either find job opportunities or post job openings on a reliable platform.
+* ** Job Seekers:** Individuals looking to find job opportunities with ease and manage their job applications.
+* ** Employers & Recruiters:** Companies or recruiters seeking an efficient platform to post job listings and manage applicants.
+* ** Admins:** Admins looking to manage job listings, users, and queries to ensure a smooth-running platform.
+* ** Anyone:** Looking to either find job opportunities or post job openings on a reliable platform.
 
 ## ⚙️ **Technologies Used**
 
