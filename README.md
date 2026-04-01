@@ -41,11 +41,11 @@ This full-stack web application is designed to bridge the gap between job seeker
 ## ⚙️ **Technologies Used**
 
 **Frontend:**  
-* ⚛️ **React.js**  
-* 🎨 **CSS3**  
-* 💻 **Bootstrap**  
-* ⚙️ **JavaScript**  
-* 🧑‍💻 **Axios** for API calls
+*  **React.js**  
+*  **CSS3**  
+*  **Bootstrap**  
+*  **JavaScript**  
+*  **Axios** for API calls
 
 **Backend:**  
 *  **Node.js**  
