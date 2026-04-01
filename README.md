@@ -59,8 +59,8 @@ This full-stack web application is designed to bridge the gap between job seeker
 
 ##  **How to Run**
 
-1. **📂 Clone the repository:**  
-   `git clone <repository_url>`
+1. ** Clone the repository:**  
+   `git clone <>`
 
 2. ** Navigate to the directory:**  
    `cd JobJunction`
