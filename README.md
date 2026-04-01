@@ -48,8 +48,8 @@ This full-stack web application is designed to bridge the gap between job seeker
 * 🧑‍💻 **Axios** for API calls
 
 **Backend:**  
-* 🖥️ **Node.js**  
-* 🖧 **Express.js**  
+*  **Node.js**  
+*  **Express.js**  
 
 **Database:**  
 * 🗄️ **MongoDB** (NoSQL Database)
