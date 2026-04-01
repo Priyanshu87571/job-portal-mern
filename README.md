@@ -52,12 +52,12 @@ This full-stack web application is designed to bridge the gap between job seeker
 *  **Express.js**  
 
 **Database:**  
-* 🗄️ **MongoDB** (NoSQL Database)
+*  **MongoDB** (NoSQL Database)
 
 **Authentication:**  
-* 🔐 **Firebase Authentication** (For Google login)
+*  **Firebase Authentication** (For Google login)
 
-## ⚙️ **How to Run**
+##  **How to Run**
 
 1. **📂 Clone the repository:**  
    `git clone <repository_url>`
