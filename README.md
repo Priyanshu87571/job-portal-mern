@@ -62,14 +62,14 @@ This full-stack web application is designed to bridge the gap between job seeker
 1. **📂 Clone the repository:**  
    `git clone <repository_url>`
 
-2. **🖥️ Navigate to the directory:**  
+2. ** Navigate to the directory:**  
    `cd JobJunction`
 
-3. **🔧 Install the backend dependencies:**  
+3. ** Install the backend dependencies:**  
    Navigate to the backend directory and install dependencies:
    `cd backend && npm install`
 
-4. **🔧 Install the frontend dependencies:**  
+4. ** Install the frontend dependencies:**  
    Navigate to the frontend directory and install dependencies:
    `cd frontend && npm install`
 
