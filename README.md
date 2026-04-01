@@ -9,9 +9,9 @@ This full-stack web application is designed to bridge the gap between job seeker
 ## **Features**
 
 ### 👤 **User Features**
-* **🔑 Login:** Allows registered users to securely access their accounts using email and password.
-* **📧 Google Login:** Provides the option to log in using Google, powered by Firebase Authentication for easy access.
-* **📝 Signup:** Enables new users to create accounts by providing necessary registration details like email and password.
+* ** Login:** Allows registered users to securely access their accounts using email and password.
+* ** Google Login:** Provides the option to log in using Google, powered by Firebase Authentication for easy access.
+* ** Signup:** Enables new users to create accounts by providing necessary registration details like email and password.
 * **🍽️ Job Listings:** Browse a wide range of job opportunities, with job details such as title, location, posting time, and descriptions.
 * **🔍 Job Filters:** Refine job searches by title, location, and posting time for efficient job discovery.
 * **💼 Post & Manage Listings:** Registered users can seamlessly create, edit, and manage their job listings, giving them full control over their content.
